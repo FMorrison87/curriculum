@@ -518,8 +518,10 @@ Note: All the classes and id's and names of elements that you inspect on Google'
 * [Earth35's Solution (easy)] (https://github.com/Earth35/google-homepage) | [View in browser] (https://htmlpreview.github.io/?https://github.com/Earth35/google-homepage/blob/master/google_homepage.html) | [Difficult solution](https://github.com/Earth35/google-search) | [View in browser (difficult)] (https://htmlpreview.github.io/?https://github.com/Earth35/google-search/blob/master/google_search.html)
 * [Colin Thorpe's Solution](https://github.com/czthorpe/google-homepage) | [View in browser](https://htmlpreview.github.io/?https://github.com/czthorpe/google-homepage/blob/master/index.html)
 * [Saj B's Solution](https://github.com/Sanju3001/google_homepage.git) | [View in browser](https://htmlpreview.github.io/?https://github.com/Sanju3001/google_homepage/blob/master/google.html)
+* [Frances Morrison's Solution](https://github.com/FMorrison87/google-homepage) | [View in browser](https://htmlpreview.github.io/?https://github.com/FMorrison87/google-homepage/blob/master/index.html)
 * Add your solution above this line!
 
+`
 
 ## Additional Resources
 
